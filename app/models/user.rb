@@ -1,3 +1,3 @@
 class User < ApplicationRecord
-  kksk ppkp 
+  kksk ppkp asas
 end
