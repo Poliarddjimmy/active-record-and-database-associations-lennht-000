@@ -1,0 +1,6 @@
+{
+  "hash": "5a7ad91e2696e739dca67008bb1517af311dace8676b9f36e0e9caba84d0f409",
+  "runtimeImage": "ruby:3.2",
+  "installCommand": "bundle install",
+  "installedAt": "2026-05-17T03:17:30.945Z"
+}
